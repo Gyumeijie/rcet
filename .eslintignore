@@ -1,0 +1,6 @@
+# Ignore built files except build/index.js
+dist/*
+node_modules/*
+src/**/*.test.js
+config/*
+*.config.js
