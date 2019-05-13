@@ -45,7 +45,7 @@ It is recommended that Yarn is used for development
 2. Install dependencies using `yarn` (or npm install if not using yarn)
 3.  Run `yarn:dev` to build the extension and start watching the src folder for changes
 
-The built extension will be output to the `dist` folder. You can load this folder as an unpacked extension (visit `chrome://extensions and select enable developer mode).
+The built extension will be output to the `dist` folder. You can load this folder as an unpacked extension (visit `chrome://extensions` and select enable developer mode).
 
 The project also uses ESLint for linting. Run `yarn lint:fix` to perform linting
 
